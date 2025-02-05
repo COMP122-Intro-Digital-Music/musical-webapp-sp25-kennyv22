@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "bus",
+    "file": "samples/bus-94441.mp3",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "announcement",
+    "file": "samples/announcement-sound-effect-254037.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "dispenser",
+    "file": "samples/papertoweldispenser-43989.mp3",
+    "bpm": "140",
+    "loop": "1m",
+    "grain": "0.05",
+    "overlap": 0.01
+  }
+]
