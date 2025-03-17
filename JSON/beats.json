@@ -1,1 +1,81 @@
-[]
+[
+
+  {
+  "name": "kick",
+  "pitch": "A3",
+  "pattern": "1010101010101010"
+ },
+ {
+  "name": "snare",
+  "pitch": "B3",
+  "pattern": "0000000000000001"
+ },
+ {
+  "name": "hi-hat",
+  "pitch": "F#4",
+  "pattern": "1010101110111010"
+ },
+ {
+  "name": "clap",
+  "pitch": "C4",
+  "pattern": "00010000"
+ },
+ {
+  "name": "cymbal",
+  "pitch": "E4",
+  "pattern": "0000000000000010"
+ },
+ {
+  "name": "white noise",
+  "pitch": "D#4",
+  "pattern": "0101101110110110"
+ }
+
+  {
+    "name": "kick",
+    "pitch": "A3",
+    "pattern": "1000100010001000"
+  },
+  {
+    "name": "snare",
+    "pitch": "B3",
+    "pattern": "0000000000000011"
+  },
+  {
+    "name": "clap",
+    "pitch": "C4",
+    "pattern": "0001000100010001"
+  },
+  {
+    "name": "hi-hat",
+    "pitch": "F#4",
+    "pattern": "101011010110"
+  },
+  {
+    "name": "cymbal",
+    "pitch": "E4",
+    "pattern": "0000000000000010"
+  }
+
+  {
+    "name": "kick",
+    "pitch": "A3",
+    "pattern": "10001000"
+  },
+  {
+    "name": "clap",
+    "pitch": "C4",
+    "pattern": "0001000000010000"
+  },
+  {
+    "name": "hi-hat",
+    "pitch": "F#4",
+    "pattern": "101010110101"
+  },
+  {
+    "name": "kick",
+    "pitch": "C#4",
+    "pattern": "1001001"
+  }
+  
+]
